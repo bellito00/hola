@@ -9,3 +9,8 @@ body{
     background-color: peru;
     margin: 2px;
 }
+
+p{
+    font-size: medium;
+    color: aqua;
+}
